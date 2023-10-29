@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CursosCESAE</string>
+    <string name="username">usuário</string>
+    <string name="password">palavra passe</string>
+    <string name="keep_me_logged">manter-me ligado</string>
+    <string name="confirm_password">confirmar palavra passe</string>
+    <string name="signup">Registar</string>
+    <string name="login">Entrar</string>
+    <string name="passwords_don_t_match">palavras não coincidem</string>
+    <string name="signup_ok">Registo OK!</string>
+    <string name="signup_error">Erro no Registo!</string>
+    <string name="please_insert_all_required_fields">Preencha todos os campos</string>
+    <string name="login_error">Erro no Entrar!</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">palavra passe</string>
+    <string name="action_sign_in">Entrar ou Registar</string>
+    <string name="action_sign_in_short">Iniciar sessão</string>
+    <string name="welcome">Bem-vindo!</string>
+    <string name="invalid_username">Usuário inválido</string>
+    <string name="invalid_password">Palavra passe deve ter  pelo menos 4 caracteres</string>
+    <string name="login_failed">"Falha no Entrar "</string>
+    <string name="developed_by_joao_cardoso">Desenvolvido por João CArdoso</string>
+    <string name="don_t_have_an_account_sign_up">Não tem conta? Registe-se!</string>
+    <string name="developer_team">Equipa de Desenvolvimento</string>
+    <string name="name">Nome</string>
+    <string name="local">Local</string>
+    <string name="startdate">Data de Início</string>
+    <string name="course_details">Detalhe do Curso</string>
+    <string name="new_course">Novo Curso</string>
+    <string name="end_date">Data de Fim</string>
+    <string name="price">Preço</string>
+    <string name="duration">Duração</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="edit">Editar</string>
+    <string name="back">Voltar</string>
+    <string name="delete">Eliminar</string>
+    <string name="app_credits">Ficha técnica</string>
+    <string name="select_an_image">Selecionar Imagem</string>
+    <string name="remove_image">Remover Imagem</string>
+    <string name="edition">Edição</string>
+    <string name="self_valuation">Auto Avaliação</string>
+</resources>
