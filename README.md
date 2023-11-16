@@ -1,15 +1,8 @@
 >
-> # Final Project on SW Dev Mobile
+> # Mobile - Android Projects
 >
 
- - RecyclerView
- - SQLite
- - CRUD
- - Multilingue
- - SplashScreen
- - SharedPreferences
- - Authentication
- - Registration
+
 
 
 
